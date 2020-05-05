@@ -16,7 +16,7 @@ module.exports = {
   | Function - Receives the current origin and should return one of the above values.
   |
   */
-  origin: ['https://sinos-frontend.herokuapp.com/'],
+  origin: ['https://sinos-frontend.herokuapp.com'],
 
   /*
   |--------------------------------------------------------------------------
